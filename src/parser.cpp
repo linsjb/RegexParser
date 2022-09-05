@@ -1,4 +1,4 @@
-#include "headers/parser.h"
+#include "Parser.h"
 
 Parser::Parser(std::string regexArgument) {
     this->regexArgument = regexArgument;
